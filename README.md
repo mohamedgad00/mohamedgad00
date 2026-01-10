@@ -17,6 +17,7 @@ I’m a passionate Frontend Developer with expertise in React.js and Next.js, fo
 - 🔭 Driving the frontend experience for enterprise products with React & Next.js
 - 🌱 Expanding my skill set in Cloud Architecture and DevOps
 - 💡 Passionate about clean code, scalability, and best-practice engineering
+- 🤖 Exploring AI-powered features and integrating it into modern web apps
 
 ## 💻 Tech Stack
 ### 🌟 Frontend Development
