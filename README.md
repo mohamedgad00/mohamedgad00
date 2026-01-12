@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=1DA1F2&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Welcome+to+Mohamed+Gad's+Profile!;Frontend+Developer+%7C+React+-+Next.js" alt="Typing SVG" />
 </div>
 <div align="center">
-  <a href="www.linkedin.com/in/mohamed-gad-b87213272/">
+  <a href="https://www.linkedin.com/in/mohamed-gad-b87213272/">
     <img src="https://img.shields.io/badge/-Mohamed_Gad-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+</a>
   <a href="mailto:hessennasser3579@gmail.com">
     <img src="https://img.shields.io/badge/-muhamedgad10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
