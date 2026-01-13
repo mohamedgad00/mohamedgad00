@@ -41,6 +41,7 @@ I’m a passionate Frontend Developer with expertise in React.js and Next.js, fo
 #### State Management
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context_API-0CAAF0?style=for-the-badge&logo=react&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=zustand&logoColor=white)
 
 </td>
 <td>
