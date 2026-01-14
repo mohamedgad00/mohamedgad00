@@ -127,10 +127,11 @@ I’m a passionate Frontend Developer with expertise in React.js and Next.js, fo
 </tr>
 </table>
 
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedgad00&theme=react-dark&hide_border=true" />
-</div>
+## 🚧 Currently Improving
+- System Design for Frontend Engineers
+- Web Performance Optimization
+- Prisma + PostgreSQL full-stack architecture
+- Docker + CI/CD on GitHub Actions
 
 ## 🤝 Let's Connect & Collaborate
 
