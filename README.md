@@ -23,6 +23,10 @@ I’m a passionate Frontend Developer with expertise in React.js and Next.js, fo
 - 🤖 Exploring AI-powered features and integrating it into modern web apps
 
 ## 💻 Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,postgres,mongodb,git,github&theme=dark" />
+</div>
+
 ### 🌟 Frontend Development
 <table>
 <tr>
@@ -163,6 +167,7 @@ Feel free to reach out!
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
+
 
 
 
