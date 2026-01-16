@@ -136,6 +136,10 @@ I’m a passionate Frontend Developer with expertise in React.js and Next.js, fo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedgad00&theme=react-dark&hide_border=true" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
 ## 🚧 Currently Improving
 - System Design for Frontend Engineers
 - Web Performance Optimization
