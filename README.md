@@ -12,8 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=mohamedgad00&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
 
-<br/>
-
 ## 🚀 About Me
 I’m a passionate Frontend Developer with expertise in React.js and Next.js, focused on building modern and user-friendly web applications. I enjoy transforming ideas into interactive digital experiences, combining clean code with creative design.
 
