@@ -140,11 +140,8 @@ I’m a passionate Frontend Developer with expertise in React.js and Next.js, fo
 
 ## 📊 GitHub Stats
 <div align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedgad00&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165" />
-  <!-- Streak Stats -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=mohamedgad00&theme=dark&hide_border=false" height="165" />
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedgad00&theme=dark&hide_border=false&layout=compact&card_width=350" />
 </div>
 
