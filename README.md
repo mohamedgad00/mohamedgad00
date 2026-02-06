@@ -26,7 +26,7 @@ I’m a passionate Frontend Developer with expertise in React.js and Next.js, fo
 </div>
 
 ### 🌟 Frontend Development
-<table>
+<table> 
 <tr>
 <td>
 
