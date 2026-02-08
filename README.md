@@ -148,7 +148,7 @@ I’m a passionate Frontend Developer with expertise in React.js and Next.js, fo
 
 I'm always excited to take on new challenges and collaborate on meaningful, innovative projects. Whether you're looking to:
 
-- 🤖 Build scalable, high-performance web applications
+- 🤖 Build scalable, high-performance web applications 
 - 🎨 Design intuitive and engaging user interfaces
 - 🔧 Tackle complex technical challenges
 - 📚 Exchange knowledge, insights, and best practices
