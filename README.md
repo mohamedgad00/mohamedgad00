@@ -153,7 +153,7 @@ I'm always excited to take on new challenges and collaborate on meaningful, inno
 - 🔧 Tackle complex technical challenges
 - 📚 Exchange knowledge, insights, and best practices
 
-Feel free to reach out!
+Feel free to reach out !.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamed-gad-b87213272/">
