@@ -64,7 +64,7 @@ I’m a passionate Frontend Developer with expertise in React.js and Next.js, fo
 </tr>
 </table>
 
-### ⚙️ Backend Development
+### ⚙️ Backend Development 
 <table>
 <tr>
 <td>
