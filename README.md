@@ -96,7 +96,7 @@ I’m a passionate Frontend Developer with expertise in React.js and Next.js, fo
 </tr>
 </table>
 
-### 🛠 DevOps & Tools
+### 🛠 DevOps & Tools 
 <table>
 <tr>
 <td>
