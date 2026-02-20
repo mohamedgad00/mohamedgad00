@@ -48,7 +48,7 @@ I’m a passionate Frontend Developer with expertise in React.js and Next.js, fo
 </td>
 <td>
 
-#### Styling Solutions
+#### Styling Solutions 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
